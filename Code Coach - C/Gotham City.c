@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//main function
 int main() {
 int c;
 scanf("%d",&c);
