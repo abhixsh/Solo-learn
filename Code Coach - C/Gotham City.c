@@ -2,7 +2,7 @@
 
 //main function
 int main() {
-int c;
+int c; //var
 scanf("%d",&c);
 if (c<5){
     printf("I got this!");
